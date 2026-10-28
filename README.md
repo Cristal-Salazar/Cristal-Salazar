@@ -31,9 +31,11 @@ Proyecto final de mi formación como QA Engineer en TripleTen, en el que realic�
 
 🔗 [Consultar portafolio completo en Notion](https://grand-homburg-670.notion.site/Urban-Scooter-Proyecto-Final-QA-Engineer-405e9f1953f880e9b85fdc4d32678624)
 
-## 📫 www.linkedin.com/in/cristal-arcelia-salazar-cuevas-613a39286
+## 📫 Contacto profesional
 
 Estoy abierta a oportunidades como **QA Engineer Junior, QA Manual Tester Junior y QA Analyst**.
+
+📧 **Correo:** [lic.arceliasa@gmail.com](mailto:lic.arceliasa@gmail.com)
 
 💼 [Conectar en LinkedIn](https://www.linkedin.com/in/cristal-arcelia-salazar-cuevas-613a39286)
 
